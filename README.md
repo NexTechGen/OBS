@@ -1,8 +1,5 @@
 # 🎥 OBS Live Setup Guide
 
-This guide provides recommended settings for configuring **OBS Studio** (Open Broadcaster Software) to get the best video and audio quality for live streaming — whether you're gaming, teaching, or broadcasting events.
-
----
 
 ## 🔧 Video Output Settings
 
@@ -86,8 +83,6 @@ Let us know these, and we’ll help you tune your OBS configuration further.
 ---
 
 # 📶 OBS Bitrate Recommendations
-
-This guide provides bitrate recommendations for OBS Studio based on video resolution, frame rate, and streaming platform. Bitrate directly impacts stream quality and performance — so choosing the right one is crucial.
 
 ---
 
